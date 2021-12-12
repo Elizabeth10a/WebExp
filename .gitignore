@@ -1,0 +1,3 @@
+# Project exclude paths
+/FJD/target/
+*.properties
